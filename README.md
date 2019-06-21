@@ -1,0 +1,2 @@
+# humanaratio
+human ethics
