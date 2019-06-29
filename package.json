@@ -1,0 +1,31 @@
+{
+  "name": "humanaratio",
+  "version": "1.0.0",
+  "description": "open source ethics and legislation",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryoungblom/humanaratio.git"
+  },
+  "keywords": [
+    "ethics",
+    "legal",
+    "legislation",
+    "open-source",
+    "law"
+  ],
+  "author": "reuben youngblom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryoungblom/humanaratio/issues"
+  },
+  "homepage": "https://github.com/ryoungblom/humanaratio#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "jade": "^1.11.0"
+  }
+}
